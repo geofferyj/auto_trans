@@ -1,0 +1,4 @@
+regex
+praatio
+auto-py-to-exe
+pyinstaller
